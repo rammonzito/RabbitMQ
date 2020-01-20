@@ -13,20 +13,21 @@ namespace TestingRabbitMQ
             {
                 using (var channel = connection.CreateModel())
                 {
-                    channel.QueueDeclare(queue: "TestRabbitMQ",
+                    channel.QueueDeclare(queue: "TestingRabbitMQ",
                         durable: false,
                         exclusive: false,
+
                         autoDelete: false,
                         arguments: null);
 
-                    string message = "First Local RabbitMQ!";
+                    string message = "Second Local RabbitMQ";
                     var body = Encoding.UTF8.GetBytes(message);
 
                     channel.BasicPublish(exchange: "",
-                        routingKey: "TestRabbitMQ",
+                        routingKey: "TestingRabbitMQ",
                         basicProperties: null,
                         body: body);
-                    Console.WriteLine("Mensagem Enviada :)!");
+                    Console.WriteLine("Mensagem Enviada :)");
                 }
                 Console.ReadLine();
             }

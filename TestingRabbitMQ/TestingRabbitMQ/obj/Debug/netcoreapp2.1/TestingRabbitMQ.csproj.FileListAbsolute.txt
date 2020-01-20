@@ -9,3 +9,14 @@ C:\Users\ramons\source\repos\TestingRabbitMQ\TestingRabbitMQ\obj\Debug\netcoreap
 C:\Users\ramons\source\repos\TestingRabbitMQ\TestingRabbitMQ\bin\Debug\netcoreapp2.1\TestingRabbitMQ.pdb
 C:\Users\ramons\source\repos\TestingRabbitMQ\TestingRabbitMQ\obj\Debug\netcoreapp2.1\TestingRabbitMQ.dll
 C:\Users\ramons\source\repos\TestingRabbitMQ\TestingRabbitMQ\obj\Debug\netcoreapp2.1\TestingRabbitMQ.pdb
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\bin\Debug\netcoreapp2.1\TestingRabbitMQ.deps.json
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\bin\Debug\netcoreapp2.1\TestingRabbitMQ.runtimeconfig.json
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\bin\Debug\netcoreapp2.1\TestingRabbitMQ.runtimeconfig.dev.json
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\bin\Debug\netcoreapp2.1\TestingRabbitMQ.dll
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\bin\Debug\netcoreapp2.1\TestingRabbitMQ.pdb
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\obj\Debug\netcoreapp2.1\TestingRabbitMQ.csprojAssemblyReference.cache
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\obj\Debug\netcoreapp2.1\TestingRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\obj\Debug\netcoreapp2.1\TestingRabbitMQ.AssemblyInfoInputs.cache
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\obj\Debug\netcoreapp2.1\TestingRabbitMQ.AssemblyInfo.cs
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\obj\Debug\netcoreapp2.1\TestingRabbitMQ.dll
+C:\Lab\RabbitMQ\TestingRabbitMQ\TestingRabbitMQ\obj\Debug\netcoreapp2.1\TestingRabbitMQ.pdb
