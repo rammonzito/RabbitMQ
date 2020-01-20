@@ -19,7 +19,7 @@ namespace TestingRabbitMQ
                         autoDelete: false,
                         arguments: null);
 
-                    string message = "First Local RabbitMQ";
+                    string message = "First Local RabbitMQ!";
                     var body = Encoding.UTF8.GetBytes(message);
 
                     channel.BasicPublish(exchange: "",
