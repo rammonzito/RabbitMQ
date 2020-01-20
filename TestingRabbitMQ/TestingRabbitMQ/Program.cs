@@ -26,7 +26,7 @@ namespace TestingRabbitMQ
                         routingKey: "TestRabbitMQ",
                         basicProperties: null,
                         body: body);
-                    Console.WriteLine("Mensagem Enviada!");
+                    Console.WriteLine("Mensagem Enviada :)!");
                 }
                 Console.ReadLine();
             }
